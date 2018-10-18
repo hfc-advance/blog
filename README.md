@@ -11,3 +11,5 @@
 3. [通过设置不同的边框颜色来创建环形旋转器加载动画](https://github.com/13916253446/blog/issues/4)
 
 4. [css创建QQ空间用户上下滑动动态列表，就会自动切换广告图片](https://github.com/13916253446/blog/issues/5)
+
+5. [创建半透明边框](https://github.com/13916253446/blog/issues/6)
