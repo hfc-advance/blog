@@ -13,3 +13,5 @@
 4. [css创建QQ空间用户上下滑动动态列表，就会自动切换广告图片](https://github.com/13916253446/blog/issues/5)
 
 5. [创建半透明边框](https://github.com/13916253446/blog/issues/6)
+
+6. [box-shadow结合outline创建边框内圆角](https://github.com/13916253446/blog/issues/7)
