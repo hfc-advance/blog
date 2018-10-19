@@ -19,3 +19,5 @@
 7. [你不知道的border-radius](https://github.com/13916253446/blog/issues/8)
 
 8. [实用选择器](https://github.com/13916253446/blog/issues/9)
+
+9. [线性渐变linear-gradient](https://github.com/13916253446/blog/issues/10)
