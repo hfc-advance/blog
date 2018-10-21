@@ -24,6 +24,8 @@
 
 9. [线性渐变linear-gradient](https://github.com/13916253446/blog/issues/10)
 
+10. [point-events使用技巧](https://github.com/13916253446/blog/issues/14)
+
 
 #### javascript相关知识
 
