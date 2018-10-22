@@ -26,6 +26,8 @@
 
 10. [point-events使用技巧](https://github.com/13916253446/blog/issues/14)
 
+11. [will-change的使用](https://github.com/13916253446/blog/issues/15)
+
 
 #### javascript相关知识
 
