@@ -36,3 +36,5 @@
 2. [复制，剪切，粘贴破解](https://github.com/13916253446/blog/issues/12)
 
 3. [js小技巧](https://github.com/13916253446/blog/issues/17)
+
+4. [scroll-behavior让滚动带缓动效果](https://github.com/13916253446/blog/issues/18)
