@@ -34,3 +34,5 @@
 1. [webworker的使用](https://github.com/13916253446/blog/issues/11)
 
 2. [复制，剪切，粘贴破解](https://github.com/13916253446/blog/issues/12)
+
+3. [js小技巧](https://github.com/13916253446/blog/issues/17)
