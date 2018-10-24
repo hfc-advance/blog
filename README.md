@@ -38,3 +38,7 @@
 3. [js小技巧](https://github.com/13916253446/blog/issues/17)
 
 4. [scroll-behavior让滚动带缓动效果](https://github.com/13916253446/blog/issues/18)
+
+#### 大杂烩
+
+1. [package.json主要配置项](https://github.com/13916253446/blog/issues/19)

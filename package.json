@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "我的博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13916253446/blog.git"
+  },
+  "keywords": [],
+  "author": "崔海峰",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13916253446/blog/issues",
+    "email": "cuihaifeng1919@hotmail.com"
+  },
+  "homepage": "https://github.com/13916253446/blog#readme"
+}
