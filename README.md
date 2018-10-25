@@ -5,7 +5,7 @@
 **2. [async函数](https://github.com/13916253446/blog/issues/13)**
 
 
-#### CSS相关知识
+## CSS相关知识
 **1. [通过动画延迟属性(animation-delay)来创建弹跳加载中动画](https://github.com/13916253446/blog/issues/2)**
 
 **2. [css实用技巧](https://github.com/13916253446/blog/issues/3)**
@@ -29,7 +29,7 @@
 **11. [will-change的使用](https://github.com/13916253446/blog/issues/15)**
 
 
-#### javascript相关知识
+## javascript相关知识
 
 **1. [webworker的使用](https://github.com/13916253446/blog/issues/11)**
 
@@ -39,11 +39,11 @@
 
 **4. [scroll-behavior让滚动带缓动效果](https://github.com/13916253446/blog/issues/18)**
 
-#### 大杂烩
+## 大杂烩
 
 **1. [package.json主要配置项](https://github.com/13916253446/blog/issues/19)**
 
-#### 思路
+## 思路
 
 **1. [返回指定页面](https://github.com/13916253446/blog/issues/20)**
 
