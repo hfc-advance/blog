@@ -1,5 +1,5 @@
 
-### ES6相关知识
+## ES6相关知识
 **1. [Promise的使用](https://github.com/13916253446/blog/issues/1)**
 
 **2. [async函数](https://github.com/13916253446/blog/issues/13)**
