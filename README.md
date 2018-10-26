@@ -59,4 +59,4 @@
 
 **1. [给Vue添加全局属性](https://github.com/13916253446/blog/issues/23)**
 
-**1. [在vscode中调试](https://github.com/13916253446/blog/issues/24)**
+**2. [在vscode中调试](https://github.com/13916253446/blog/issues/24)**
