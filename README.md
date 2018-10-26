@@ -54,3 +54,7 @@
 ## 项目中遇到的问题
 
 **1. [项目遇到的小问题整合](https://github.com/13916253446/blog/issues/21)**
+
+## Vue相关知识
+
+**1. [给Vue添加全局属性](https://github.com/13916253446/blog/issues/23)**
