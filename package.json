@@ -17,5 +17,13 @@
     "url": "https://github.com/13916253446/blog/issues",
     "email": "cuihaifeng1919@hotmail.com"
   },
-  "homepage": "https://github.com/13916253446/blog#readme"
+  "homepage": "https://github.com/13916253446/blog#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
