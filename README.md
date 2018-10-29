@@ -61,6 +61,8 @@
 
 **2. [在vscode中调试](https://github.com/13916253446/blog/issues/24)**
 
+**3. [Vue渲染性能优化](https://github.com/13916253446/blog/issues/30)**
+
 ## 概念
 
 **1. [javascript调用堆栈](https://github.com/13916253446/blog/issues/25)**
