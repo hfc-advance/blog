@@ -82,3 +82,7 @@
 ## 性能优化
 
 **1. [异步解码图片](https://github.com/13916253446/blog/issues/31)**
+
+## canvas
+
+**1. [压缩图片分步缩小](https://github.com/13916253446/blog/issues/32)**
