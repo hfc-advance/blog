@@ -78,3 +78,7 @@
 ## 项目规范
 
 **1. [规范commit message](https://github.com/13916253446/blog/issues/29)**
+
+## 性能优化
+
+**1. [异步解码图片](https://github.com/13916253446/blog/issues/31)**
