@@ -47,6 +47,8 @@
 
 **1. [package.json主要配置项](https://github.com/13916253446/blog/issues/19)**
 
+**2. [NPM实用小指令](https://github.com/13916253446/blog/issues/35)**
+
 ## 思路
 
 **1. [返回指定页面](https://github.com/13916253446/blog/issues/20)**
