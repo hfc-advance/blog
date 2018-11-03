@@ -94,3 +94,5 @@
 **1. [作用域提升ModuleConcatenationPlugin](https://github.com/13916253446/blog/issues/33)**
 
 **2. [内联webpack运行时代码inline-manifest-webpack-plugin](https://github.com/13916253446/blog/issues/34)**
+
+**3. [分析webpack编译慢在哪里speed-measure-webpack-plugin](https://github.com/13916253446/blog/issues/36)**
