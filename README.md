@@ -77,6 +77,8 @@
 
 **1. [分析代码的执行时间](https://github.com/13916253446/blog/issues/26)**
 
+**2. [监测页面重绘和回流以及动画FPS](https://github.com/13916253446/blog/issues/39)**
+
 ## 项目规范
 
 **1. [规范commit message](https://github.com/13916253446/blog/issues/29)**
