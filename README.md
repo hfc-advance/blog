@@ -39,6 +39,8 @@
 
 **4. [scroll-behavior让滚动带缓动效果](https://github.com/13916253446/blog/issues/18)**
 
+**5. [messageChannel消息通道](https://github.com/13916253446/blog/issues/40)**
+
 ## 设计模式
 
 **1. [策略模式](https://github.com/13916253446/blog/issues/22)**
