@@ -77,6 +77,8 @@
 
 **3. [宏任务与微任务](https://github.com/13916253446/blog/issues/28)**
 
+**4. [javascript内存机制](https://github.com/13916253446/blog/issues/42)**
+
 ## 调试
 
 **1. [分析代码的执行时间](https://github.com/13916253446/blog/issues/26)**
