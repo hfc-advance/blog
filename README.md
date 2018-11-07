@@ -41,6 +41,8 @@
 
 **5. [messageChannel消息通道](https://github.com/13916253446/blog/issues/40)**
 
+**6. [broadcastChannel广播通道](https://github.com/13916253446/blog/issues/41)**
+
 ## 设计模式
 
 **1. [策略模式](https://github.com/13916253446/blog/issues/22)**
