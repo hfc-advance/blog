@@ -28,6 +28,8 @@
 
 **11. [will-change的使用](https://github.com/13916253446/blog/issues/15)**
 
+**12. [干货](https://github.com/13916253446/blog/issues/44)**
+
 
 ## javascript相关知识
 
