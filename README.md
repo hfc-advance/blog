@@ -118,3 +118,5 @@
 ## Github
 
 **1. [小技巧](https://github.com/13916253446/blog/issues/45)**
+
+**2. [如何利用gh-pages分支展示自己的项目](https://github.com/13916253446/blog/issues/46)**
