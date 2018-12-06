@@ -124,3 +124,5 @@
 ## 常用node
 
 **1. [log技巧](https://github.com/13916253446/blog/issues/47)**
+
+**2. [常用api](https://github.com/13916253446/blog/issues/48)**
